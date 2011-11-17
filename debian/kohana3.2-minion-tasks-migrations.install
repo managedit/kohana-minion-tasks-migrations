@@ -1,0 +1,5 @@
+classes            opt/kohana3.2/modules/minion-tasks-migrations
+config             opt/kohana3.2/modules/minion-tasks-migrations
+minion_schema.sql  opt/kohana3.2/modules/minion-tasks-migrations
+tests              opt/kohana3.2/modules/minion-tasks-migrations
+views              opt/kohana3.2/modules/minion-tasks-migrations
